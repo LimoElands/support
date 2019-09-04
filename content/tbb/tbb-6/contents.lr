@@ -1,8 +1,8 @@
-_model: question 
+Can I make Tor Browser my default browser?
 ---
-title: Can I make Tor Browser my default browser?
+Yes. On macOS, you can make Tor Browser your default browser.
 ---
-seo_slug: make-tor-browser-default-browser
+~~Unfortunately, there is no supported way to make Tor Browser your default browser.~~
 ---
-description: 
-Unfortunately, there is no supported way to make Tor Browser your default browser.
+Apple menu / System Preferences / General / Default web browser: select option "Tor Browser".
+
