@@ -8,5 +8,6 @@ key: 14
 ---
 description: 
 There are methods for setting Tor Browser as your default browser, but those methods may not work always or in every operating system.
-The Tor Browser works hard to isolate itself from the rest of your system, and the steps for making it the default browser are unreliable.
+The Tor Browser works hard to isolate itself from the rest of your system, and the steps for making it the default browser might be unreliable.
 This means sometimes a website would load in the Tor Browser, and sometimes it would load in another browser. This type of behavior can be dangerous and break anonymity.
+In macOS Big Sur Version 11.2.3, the method for setting Tor Browser as your default browser seems to always work properly and reliably. In /Applications/System Preferences/, you can select Default web browser: Tor Browser.
